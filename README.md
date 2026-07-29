@@ -58,15 +58,6 @@ Designed for use by **individuals, therapists, counselors, coaches, and mental h
 - Includes secondary and tertiary emotions at varying intensities
 - Language calibrated for adult emotional complexity
 
----
-
-## 🧪 Testing & Real-World Use
-
-Emotion Wheel has been tested with adults across a range of personal and professional contexts, including individuals using it as a daily check-in practice, people sharing it with partners to build shared emotional vocabulary, and practitioners exploring it as a session warm-up tool.
-
-Testers consistently noted that the visual, color-responsive design made the experience feel less clinical than other emotional check-in tools — and that having three entry points (wheel, browse, quiz) meant they could use it differently on different days depending on their state of mind.
-
-*See [CASE-STUDY.md](./CASE-STUDY.md) for detailed use scenarios.*
 
 ---
 
@@ -106,7 +97,6 @@ Or download `therapy-suite.html` and open it directly in any browser.
 ```
 therapy-suite.html    ← Complete application (single file, no dependencies)
 README.md             ← This file
-CASE-STUDY.md         ← Real-world use scenarios
 ```
 
 ---
