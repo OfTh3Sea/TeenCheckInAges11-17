@@ -179,7 +179,7 @@ If a student appears to be in crisis, follow your institution's established cris
 | **Feelings Explorer** | 5–10 | Flip cards with definitions, intensity sliders, drawing canvas |
 | **Teen Check-in** *(this tool)* | 11–17 | Body map, triggers, journal, counselor view, student privacy controls |
 | **Emotion Wheel** | Adults | Plutchik wheel, mood journal, guided discovery |
-
+| **Burnout Barometer** | 10+ | Age-specific burnout assessment, live thermometer, recovery activities |
 ---
 
 ## 📄 License
