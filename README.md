@@ -114,7 +114,7 @@ Including Hopeless in the emotion library is a deliberate clinical choice. It is
 ### Installation
 
 ```bash
-git clone https://github.com/OfTh3Sea/teen-checkin.git
+git clone https://github.com/OfTh3Sea/TeenCheckInAges11-17.git
 cd teen-checkin
 open checkin-teen.html
 ```
